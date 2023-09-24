@@ -51,7 +51,7 @@ A cutting-edge platform that provides real-time stock analysis using advanced al
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/YourUsername/StockAnalysisPlatform.git
+   git clone https://github.com/Nihar0071/StockAnalysisPlatform.git
    ```
 
 2. Install backend dependencies:
@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Nihar Patel - [niharpatel007rd@gmail.com](mailto:niharpatel007rd@gmail.com)
 
-Project Link: [https://github.com/YourUsername/StockAnalysisPlatform]([https://github.com/YourUsername/StockAnalysisPlatform](https://github.com/Nihar0071/Stock-Market-Automated-))
+Project Link: [https://github.com/Nihar0071/StockAnalysisPlatform]([https://github.com/Nihar0071/StockAnalysisPlatform](https://github.com/Nihar0071/Stock-Market-Automated-))
 
 ## Acknowledgements
 
